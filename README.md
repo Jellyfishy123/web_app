@@ -1,16 +1,8 @@
-# web_app
+## New Flutter App: ##
+You’ll implement a simple web app that displays a sign in screen. The screen contains three text fields: first name, last name, and username. As the user fills out the fields, a progress bar animates along the top of the sign in area. When all three fields are filled in, the progress bar displays in green along the full width of the sign in area, and the Sign up button becomes enabled. Clicking the Sign up button causes a welcome screen to animate in from the bottom of the screen.
 
-A new Flutter project.
+My second project in Flutter is based off https://docs.flutter.dev/get-started/codelab-web <br>
+This is in preparation for SC2006 Software Engineering in Y2S2.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributors: ##
+Nguyen Tien Dat <br>
